@@ -1,3 +1,6 @@
+En el archivo index.js que se encuentra dentro de la carpeta src está la resolución de los ejercicios. 
+Particularidad: se debe ir probando y ejecutando el código punto por punto ya que realizo una renderización de cada uno. Esto lo hice así porque me pasaba que tenía que crear otro nombres de componentes inventados por mi para renderizar finalmente como un todo a medida que iba avanzando con cada punto.(Me pareció lo más ordenado).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
